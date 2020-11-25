@@ -72,6 +72,36 @@ text-align: center;
 letter-spacing: 0.06em;
  color: white;
 }
+/* portfolio.html */
+.buttons {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+}
+.buttons:hover,
+.buttons:focus {
+color: #FFFFFF; 
+}
+.project_name {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 36px;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.direction_of_work {
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 0.03em;
+color: #757575;
+}
 
 /*==========end-hero==========*/
 /*==========about==========*/
