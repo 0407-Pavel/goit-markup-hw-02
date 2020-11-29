@@ -6,6 +6,9 @@
 a{
     text-decoration: none;
 }
+img {
+    display: block;
+}
 :root {
     --accent-color: #2196F3;
 }
